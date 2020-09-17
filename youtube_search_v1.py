@@ -19,7 +19,7 @@ ws = wb.create_sheet(_keyword)
     주의!
     1. DEVELOPER_KEY 절대 외부에 노출하지 마세요.
 """
-DEVELOPER_KEY = "AIzaSyCJEHbjf_SBS7dkswshNZRlnhEGxnF7nKo"
+DEVELOPER_KEY = "PLEASE ADD DEVELOPER KEY"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 FREEBASE_SEARCH_URL = "https://www.googleapis.com/freebase/v1/search?%s"
