@@ -73,3 +73,7 @@ for search_counter in range(1, 6):
 - pip install --upgrade google-api-python-client
 - pip install oauth2client
 - pip install openpyxl
+
+## 3. 맺으며
+
+이 프로그램은 하루 검색량의 한계가 있습니다. youtube api v3의 quota 정책 때문인데요. 경험상 2~3천 건 검색치 받아오면 그날은 막힙니다. 그러면 내일 검색해야 하는 한계가 있습니다. 모쪼록 이 프로그램이 여러 사람에게 도움이 되길 바랍니다.
