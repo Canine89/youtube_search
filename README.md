@@ -67,8 +67,9 @@ for search_counter in range(1, 6):
 를 누르면 정보 수집이 시작됩니다.
 
 > 주의! python 패키지가 설치되어 있지 않으면 코드가 실행되지 않습니다. 이 코드 실행을 위해 필요한 패키지는 다음과 같습니다.
-> python 3.8 기준입니다.
-> pip install apiclient
-> pip install --upgrade google-api-python-client
-> pip install oauth2client
-> pip install openpyxl
+
+- python 3.8 기준입니다.
+- pip install apiclient
+- pip install --upgrade google-api-python-client
+- pip install oauth2client
+- pip install openpyxl
